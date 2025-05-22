@@ -7,7 +7,7 @@ This project is developed and maintained by **Maha Mission Education and Career 
 ✅ **Deployment**\
 ✅ **Ongoing maintenance** of these projects
 
-**🌐 Live URL:** [https://.apnasite.in](https://tools.apnasite.in)\
+**🌐 Live URL:** [https://calculators.apnasite.in](https://calculators.apnasite.in)\
 **📢 Join us:** [https://apnaguru.in](https://aapn.in/M7PM3JB5)\
 **📌 Organization:** [https://mmeac.org](https://mmeac.org)\
 **🏢 Company:** [https://apnasite.in](https://apnasite.in)\

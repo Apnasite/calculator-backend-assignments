@@ -1,7 +1,3 @@
-Here's your Full Stack Development Assignment:
-
----
-
 ## **Title: Body Fat Calculator**
 
 ### **Tool Details:**
